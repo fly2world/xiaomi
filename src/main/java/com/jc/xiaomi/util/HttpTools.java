@@ -91,7 +91,7 @@ public class HttpTools {
      */
     public static void main(String[] args) {
 
-        String url = "http://www.baidu.com";
+        String url = "http://www.jincan.com";
 
         String body = get(url);
         System.out.println(body);
